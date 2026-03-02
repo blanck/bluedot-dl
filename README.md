@@ -1,4 +1,4 @@
-# bluedot-dl
+# BlueDot Meeting Downloader
 
 Bulk download videos, transcripts, and meeting summaries from your [BlueDot](https://bluedothq.com) account.
 
